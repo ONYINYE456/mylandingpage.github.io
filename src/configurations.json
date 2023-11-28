@@ -1,0 +1,28 @@
+{
+    "backgroundType": "plain",
+    "plainBackgroundMode": "daylight",
+    "devIntro": "Hi, I am UDEAGBALA ONYINYE SONIA",
+    "devDesc": "FRONT-END DEVELOPER | FASHION DESIGNER ",
+    "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
+    "backgroundImageUrl": "http://hdwpro.com/wp-content/uploads/2017/03/Art-Background-Image.png",
+    "icons": [
+      
+      {
+        "image": "fa-github",
+        "url": "https://github.com/ONYINYE456"
+      },
+      {
+        "image": "fa-twitter",
+        "url": "https://twitter.com/"
+      },
+      {
+        "image": "fa-instagram",
+        "url": "https://www.instagram.com//"
+      },
+      
+      {
+        "image": "fa-linkedin",
+        "url": "https://www.linkedin.com/in/onyinye-sonia"
+      }
+    ]
+  }
